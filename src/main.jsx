@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import App from "./App";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar";
 import "./style.css";
 
 const Root = () => {
